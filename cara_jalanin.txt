@@ -1,0 +1,18 @@
+PELAJARI SEBELUM MENJALANI CODE INI!
+
+File Structure:
+Di folder ini ada 3 File
+- cara_jalanin.txt
+- main.py
+- Pipfile
+Kalo mau ganti nama main.py, pastiin ubah nama file di langkah 5 "Step by Step" menjadi nama file yang akan diubah
+
+Step by Step:
+1. Pastiin di laptop ada python
+2. Buka folder ini di VSCode atau IDE sejenisnya
+3. Buka terminal VSCode dan jalanin command ini "pip install pipenv" kalo gabisa jalanin "python -m pip install pipenv"
+4. Jalanin command "pipenv install streamlit matplotlib sympy"
+5. Setelah terinstall jalanin command ini "pipenv shell" atau "pipenv run"
+6. Kalo udah berhasil, jalanin command ini "streamlit run main.py"
+7. Habis jalanin command itu, bakal langsung pindah ke browser dan bakalan ke Buka
+8. Dan setelah terbuka bisa dimainkan parameter sesuai yang diinginkan
